@@ -65,3 +65,7 @@ button:hover{
     background-color: #53585e;
     border: 2px solid white;
 }
+
+#pColor{
+    color: rgb(221, 221, 112);
+}
